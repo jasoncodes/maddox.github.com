@@ -1,0 +1,21 @@
+---
+layout: post
+title: $5 for Xcode Isn't Wrong, It's Just Weird
+---
+
+h1. {{ page.title }}
+
+There's a lot of talk on Twitter about Apple charging $5 for Xcode. People are either complaining about the price, or complaining about people complaining about the price. I think a lot of people are missing the point.
+
+Xcode is a very large piece of software. I have no problem with Apple charging $499 for it. The problem is, Xcode isn't just Xcode, its the canonical way to get a GCC toolchain in OS X. And now Apple has it on a store front as "Xcode", the software that provides "everything developers need to create great applications for Mac, iPhone, and iPad." 
+
+This means in order to build software like ImageMagick, anything distributed with MacPorts or Homebrew, or other OSS software packages you might use, you need Xcode. Where it gets weird is that none of these things actually NEED the software called Xcode. But you have to buy Xcode if you want to use them. This is not only confusing but also creates very weird scenarios. I'll try to describe a few of them.
+
+* Software like "Boom":https://github.com/holman/boom isn't even developer oriented. A normal user now has to pay $5 to use it.
+* Ruby developers that have spent years installing Xcode just to build their C backed gems now have to pay $5 for Xcode.
+* What about employees that work in other languages? They now have to not only expense $5 for tools but explain why. Manager: "Why? You don't write iOS apps."
+* When that employee buys it, its not even property of their employer. It's the employee's, because of the way the Mac App Store works.
+
+Having to pay $5 for an advertised piece of software that you're not really even using is weird. Now, Apple very well may plan on shipping 10.7 with a toolchain to allow the building of just such software. That would definitely remove the weirdness. 
+
+You can yell at me about this via "Twitter":http://twitter.com/maddox
