@@ -9,13 +9,13 @@ The following is not a description of what I think Apple will ship or would ever
 
 Simply put, this is the dream setup I like to call iLife server. It's a canonical meta store and server for your music, photos, and video (if buying DRM video is something you're interested in). Not just *your* music, but your wife's, children's, or whoever else lives in your house (most likely anyone using the same credit card). 
 
-h2. What?
+h3. What?
 
 iLife server lives on your always on computer. This is most likely a family iMac. It runs silently like any server software would, waiting for you to interact with it remotely. It stores all of the music, photos, and videos for the entire household. Maybe it has a local client you can use to do some management, but this typically isn't the way you interact with the media that it stores. So how do you use it?
 
 iTunes and iPhoto are now dumb clients. When you open iTunes on your laptop or Mac Pro, it connects to iLife server and looks exactly like what you're used to seeing now. Except none of the media is actually local. You can play music all day, make playlists, buy music, import music, delete music, edit metadata. iTunes relays all of this over to iLife server. Most of these ideas work for iPhoto too but won't be detailed here. 
 
-But what about when you leave the house, you might say. The idea of branded Home Sharing is dead. It's just sharing. Because that's the entire point of iLife server. Media accessabity. When you pop open your MacBook air at your coffee shop, all of your music is right there in iTunes. It streams right from iLife server at your house. Oh, and this works on your iPhone, iPad, and iPod touch too.
+But what about when you leave the house, you might say. The idea of branded Home Sharing is dead. It's just sharing. Because that's the entire point of iLife server. Media accessibility. When you pop open your MacBook air at your coffee shop, all of your music is right there in iTunes. It streams right from iLife server at your house. Oh, and this works on your iPhone, iPad, and iPod touch too.
 
 But what about syncing, you might say. It's simple, you sync just like you did before. Except the media is fetched over the network. You might think this would be slow, but you would be surprised. Remember FireWire iPods? Mmm... That was some nice syncing. Those days are gone. Between USB 2 and insanely slow sustained transfers on solid state, these devices sync super slow. The bottle neck isn't wifi anymore like it might have been 5 years ago. 
 
@@ -23,7 +23,7 @@ But wouldn't this get messy, you're basically suggesting a single media library 
 
 When you open iTunes it connects to iLife server with your identity. Just think logging in to YouTube. When you make a new playlist, this is your playlist. It appears in your iTunes clients and only yours. Want to make it available to everyone? Set it to be global and it appears available to everyone. 
 
-h2. Why?
+h3. Why?
 
 90% of the computers that Apple sells are notebooks. Notebooks get closed, put away, and are basically never "on". Meanwhile, they make incredible music sharing software with AirTunes, AirPlay, iTunes DJ, and iPhone Remote. When I want to listen to my music (it's all on my Mac Pro) I flip open the Remote app and push music to my multiple Airport Expresses. Great. My wife uses a MacBook. When she wants to listen to her music, she gets to pull out her notebook, plug it in, open it, set it on the table, and flip open the Remote app. This isn't even an option. She has not and never will do this. Having her media on an available server resolves this. 
 
@@ -31,6 +31,6 @@ When I want to grab photos or music out of her library, I have to go downstairs 
 
 Why do we even have individual iTunes and iPhoto libraries? If we were roommates this pattern is forgivable. But we're not. There's no reason for this level of personalization of media in a household. Personalization should be maintained with playlists, photo albums, etc. The "library" is nothing but a pool of media that everyone wants access to. 
 
-h2. Will this ever happen?
+h3. Will this ever happen?
 
 I wouldn't bet on it. But I've tortured myself wanting something like it for years now. For me, this solves the accessibility problems of libraries trapped on laptops, merges redundant libraries, and ubiquitous availability of my media. The scary part is that, even though it would be a massive undertaking, it's definitely doable.
